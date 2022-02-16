@@ -1,0 +1,30 @@
+div{
+    background-color:rgb(224, 222, 222);
+    text-align: center;
+    padding: 50px 50px;
+    margin-top: 70px;
+    margin-left: 370px;
+    margin-right: 370px;
+    font-family: sans-serif;
+}
+i{
+    font-size: 30px;
+    color: rgb(9, 155, 192);
+}
+input{
+    border: none;
+    border-radius: 4px;
+    width: 300px;
+    height: 40px;
+}
+button{
+    background-color: rgb(17, 29, 184);
+    color:white;
+    margin-top: 20px;
+    width:120px;
+    height:50px;
+    cursor: pointer;
+}
+h1{
+    margin-top:50px;
+}

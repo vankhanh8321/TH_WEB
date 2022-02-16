@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;;
+}
+img{
+    float: left;
+}
+.ul{
+    padding-top: 10px;
+}
+.main{
+    list-style-type: none;
+    display: flex;
+}
+.small1{
+    list-style-type: none;
+    margin-left: 540px;
+    border-spacing: 50px;
+}
+.small2{
+    list-style-type: none;
+    margin-top: -190px;
+    margin-left: 780px;
+}
+.small3{
+    list-style-type: none;
+    margin-top: -190px;
+    margin-left: 950px;
+}
+li{
+    font-size:15px;
+}
+ul.small1>li, ul.small2>li, ul.small3>li{
+    margin-bottom: 20px;
+}
+ul.main>li{
+    padding: 0px 50px;
+    font-weight:bold;
+}

@@ -1,0 +1,29 @@
+.main{
+    background-image:url('../img/coffee.jpg');
+    height: 300px;
+    width: auto;
+    font-family: sans-serif;
+}
+.main-p{
+    text-align:center;
+    color: white;
+    font-size:22px;
+    padding-top: 80px;
+}
+.coffee{
+    text-align:center;
+    color:white;
+    font-size:14px;
+}
+.button{
+   text-align:center;
+}
+button{
+    background-color:rgb(197, 74, 17);
+   width:170px;
+   height:50px;
+   border: none;
+   border-radius:5px;
+   color:white;
+   cursor: pointer;
+}

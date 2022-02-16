@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgba(255, 255, 255, 0.39);
+    font-size:14px;
+}
+ul{
+    list-style-type: none;
+    margin-top: 55px;
+}
+li{
+    margin-bottom:15px;
+}
+a{
+    text-decoration:none;
+    color:rgba(255, 255, 255, 0.39);
+}
+.footer{
+    background-color: #000000;
+}
+.footer_top{
+    height:300px;
+}
+.footer_bottom{
+    background-color: #151515;
+    height:90px;
+}
+div.mail{
+    display: inline-block;
+    margin-right: 150px;
+    margin-left:30px;
+}
+input.mail{
+    height:30px;
+    width:250px;
+    margin-top: 20px;
+}
+input.button{
+    height:35px;
+    width:50px;
+    background-color: #01b9ce;
+    color:white;
+}
+div.contact{
+    display: inline-block;
+    margin-right: 150px;
+}
+div.check{
+    display: inline-block;
+    margin-right: 150px;
+}
+div.login{
+    display: inline-block;
+}
+div.logo{
+    display: inline-block;
+    margin-left: 30px;
+}
+div.copyright{
+    display: inline;
+    float:right;
+    margin-right:20px;
+    margin-top: 20px;
+}

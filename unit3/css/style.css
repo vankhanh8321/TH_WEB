@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    margin-left: 50px;
+    max-width: 800px;
+}
+ul{
+    list-style-type: none;
+}
+button{
+    width:150px;
+    height: 50px;
+    background-color: rgb(14, 161, 154);
+    color: white;
+    cursor: pointer;
+}

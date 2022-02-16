@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-image: linear-gradient(to bottom,#fcd6e3 30%,#b6e7e6);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+}
+.form{
+    width:70%;
+    height:90%;
+    background-image: linear-gradient(to right bottom,#e2fbf5 55%,#fce5f9 55%);
+    margin: 0 auto;
+    padding-top: 10px;
+}
+h2{
+    font-size: 35px;
+    margin-bottom:-15px;
+}
+p{
+    font-size:13px;
+}
+input{
+    border:none;
+    border-radius:5px;
+}
+form{
+    margin-top: 50px;
+}
+.input_username, .input_password{
+    margin-bottom: 5px;
+    position: relative;
+}
+.username, .password{
+    width:200px;
+    height:40px;
+}
+.button{
+    width:200px;
+    height:40px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.fa-eye{
+    position: absolute;
+    margin-left: -10px; 
+    cursor: pointer;
+    right:20%;
+    bottom:30%;
+}
+.forgotPassword_signup{
+    margin-top: 70px;
+    position: relative;
+    margin-right: 100px;
+}
+.button_forgot, .signup{
+    width:100px;
+    height:40px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 13px;
+    cursor: pointer;
+}
+.signup{
+    position: absolute;
+    background-color:#b8f2e8;
+    margin-left: 5px;
+}

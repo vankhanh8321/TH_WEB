@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rate{
+    margin:auto;
+    width: 70%;
+}
+h2{
+    color:blue;
+    margin-left: 40px;
+    margin-bottom: -10px;
+}
+ul{
+    list-style-type: none;
+}
+.li{
+    background-color:rgba(212, 209, 209, 0.322);
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.name{
+    color:red;
+    cursor: pointer;
+    padding-top:1px;
+}
+span{
+    color:black;
+}
+.text{
+    padding-bottom:1px;
+}
+.date_time{
+    font-style: italic;
+    font-size: 13px;
+}

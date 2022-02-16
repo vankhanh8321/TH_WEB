@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#7c6a6a
+}
+.form_signin{
+    width: 50%;
+    height: 400px;
+    background-color:#f2f2f2;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+.main_form{
+    width: 50%;
+    height: 330px;
+    background-color:#f4f4f4;
+    margin:0 auto;
+    box-shadow: 1px 1px 5px rgb(128, 111, 111);
+}
+.sign_with{
+    height:40px;
+    background-color:white;
+    padding-top:3px;
+    padding-left: 5px;
+}
+.login{
+    text-align:center;
+    width:80%;
+    height:200px;
+    margin: 0 auto;
+    background-color:white;
+}
+input{
+    border:1px solid rgb(128, 40, 40);
+    border-radius: 2px;
+    width:220px;height:25px;
+    margin-bottom: 5px;
+}
+.fas{
+    color:rgba(112, 105, 105, 0.678)
+}
+.total{
+    float:left;
+    margin-left: 5px;
+}
+.div_keepme{
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+span{
+    font-size:14px;
+}
+.radio{
+    width:15px;
+    height:15px;
+}
+.btn_sign_in, .btn_cancel{
+    width:110px;
+    height:25px;
+}
+.btn_sign_in{
+    margin-left: 15px;
+    background-color:#0079c1;
+    border:none;
+    color:white;
+    cursor: pointer;
+}
+.btn_cancel{
+    border: 1px solid #0079c1;
+    color:#0079c1;
+    cursor: pointer;
+}
+a{
+    font-size: 13px;
+    margin-left: 10px;
+}
+.fab{
+    width:65px;
+    height: 25px;
+    border-left:1px solid rgba(0, 0, 0, 0.178);
+    text-align: center;
+    padding-top: 10px;
+}
+.fa-github{
+    margin-left: 36px;
+    color:black;
+}
+.fa-facebook{
+    color:#1977f3;
+}
+.fa-google{
+    color:orange;
+}
+.fa-apple{
+    color:black;
+    border-right: 1px solid rgba(0, 0, 0, 0.171);
+}

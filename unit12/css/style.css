@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+footer{
+    width:cover;
+    height:250px;
+    background-color:rgb(110, 160, 160);
+}
+table{
+    width:cover;
+    padding-top: 40px;
+}
+.main{
+    font-weight: bold;
+}
+.khoahoc, .text-khoahoc{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.social, .icon{
+    padding-left: 300px;
+}
+.icon{
+    padding-left:330px;
+    font-size: 40px;
+}
+.text-khoahoc, .list, span{
+    font-size:14px;
+}
+span{
+    margin-left:553px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.fa-facebook{
+    color:#3498db;
+}
+.fa-google-plus-g{
+    color:#e74c3c;
+}
+.fa-twitter-square{
+    color:#2c3e50;
+}
+.fa-invision{
+    color:#3498db;
+}

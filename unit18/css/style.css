@@ -1,0 +1,25 @@
+.bike{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40%;
+    margin:auto;
+}
+ul{
+    list-style-type: none;
+    background-color: rgb(231, 231, 231);
+}
+li:not(li:last-child){
+    border-bottom: 1px solid red;
+}
+.text{
+    font-size: 13px;
+    color: rgba(124, 114, 114, 0.973);
+    line-height:20px;
+}
+.des{
+    display: inline-block;
+    width:70%;
+    margin-left: 30px;
+}
+.img{
+    display: inline-block;
+}

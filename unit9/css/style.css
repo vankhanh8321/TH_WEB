@@ -1,0 +1,16 @@
+img{
+    float: left;
+    height:300px;
+}
+.paragraph{
+    margin-left: 270px;
+    max-width: 600px;
+}
+h2{
+    color:blue;
+}
+button{
+    width:130px;
+    height:30px;
+    cursor: pointer;
+}
